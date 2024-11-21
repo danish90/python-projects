@@ -1,6 +1,6 @@
 Collection of small projects as I learn to code in Python — inspirations and guidelines from Youtube, Daily Python Projects, and ChatGPT.
 
-Some fun ones I've included:
+Some fun ones I've included in the python-practice branch:
   1. Slot Machine
   2. Recipe Finder
   3. Simple ATM
