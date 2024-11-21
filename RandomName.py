@@ -13,7 +13,7 @@ with open(file_path, "a+") as file:
     file.seek(0) #this moves the pointer back to the beginning, as a+ sets it at the very end for appending
     names = [line.strip() for line in file] #stores each line without trailing newline character
 
-# print(len(names))
+# print(len(names)) #check if it imported correctly
 
 #this is the next intermediate project, to create a program that can add a new name, select a random name, show total number of names
 
