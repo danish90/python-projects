@@ -33,14 +33,3 @@ if matching_recipes:
         print("")
 else:
     print("No matching recipes found.")
-
-
-
-# print(user_ingredients)
-
-# user_ingredients = set() #cannot define an empty set using {}; the split method renders this useless
-# ingredients = input("Enter a list of ingredients, separated by commas: ").split(",")
-# ingredients = {ingredient.strip().lower() for ingredient in ingredients}
-# num_ingredients = len(ingredients)
-
-#I do not need to use a for loop since the 'split' method is already parsing the string into a list; I do not need to append any of this to a set as it's structuring it automatically into a list
