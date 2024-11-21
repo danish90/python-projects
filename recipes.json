@@ -11,7 +11,7 @@
     },
     {
         "name": "Vegetable Stir Fry",
-        "ingredients": ["broccoli", "carrot", "bell pepper", "soy sauce", "ginger", "garlic", "sesame oil"],
+        "ingredients": ["broccoli", "carrot", "capsicum", "soy sauce", "ginger", "garlic", "sesame oil"],
         "instructions": "Heat sesame oil in a pan. Add ginger and garlic, followed by broccoli, carrot, and bell pepper. Stir fry for 5 minutes, then add soy sauce and cook until vegetables are tender."
     },
     {
