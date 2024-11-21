@@ -4,6 +4,7 @@ Some fun ones I've included:
   1. Slot Machine
   2. Recipe Finder
   3. Simple ATM
+  4. Motivational Quote of the Day (featuring Claude's 'Ironic Motivational Quotes for the Lazy')
 
 Goal projects for end of 2024 (and writing this out will help me commit):
   1. Magic 8-ball
