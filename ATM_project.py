@@ -38,9 +38,7 @@ def main():
     print()
     print("Welcome to the ATM!")
     print()
-    # print(f"Current Balance: ${balance:.2f}")
-    # ATM_options()
-
+ 
     while True:
 
         print(f"Current Balance: ${balance:,.2f}")
