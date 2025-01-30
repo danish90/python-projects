@@ -6,10 +6,12 @@ Some fun ones in the python-practice branch:
   3. Simple ATM
   4. Motivational Quote of the Day (featuring Claude's 'Ironic Motivational Quotes for the Lazy')
 
-Goal projects for end of 2024 (and writing this out will help me commit):
-  1. Magic 8-ball
-  2. Wine fridge organiser (might be a stretch for EOY, maybe Jan 2025)
+Goal projects for 2025Q1 (and writing this out will help me commit):
+  1. Wine fridge organiser
+  2. GBBO bracket for the upcoming season (may be an H2 project)
 
 Future projects using other languages & frameworks:
-  - GBBO bracket (for next season)
   - AR art and picture hanging tool
+
+To explore using computer vision:
+- Editing and cleaning VHS / other analog conversions
